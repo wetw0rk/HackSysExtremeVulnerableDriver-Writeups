@@ -35,6 +35,7 @@ The **HackSys Extreme Vulnerable Driver (HEVD)** is a **Windows Kernel** driver 
 
 ## External Exploits
 
+* <https://github.com/wetw0rk/Exploit-Development/tree/master/HEVD-Exploits>
 * <https://github.com/sam-b/HackSysDriverExploits>
 * <https://github.com/sizzop/HEVD-Exploits>
 * <https://github.com/badd1e/bug-free-adventure>
@@ -57,6 +58,26 @@ The **HackSys Extreme Vulnerable Driver (HEVD)** is a **Windows Kernel** driver 
 
 ## External Blog Posts
 
+* <https://wetw0rk.github.io/posts/0x00-introduction-to-windows-kernel-exploitation/>
+* <https://wetw0rk.github.io/posts/0x00-introducci%C3%B3n-a-windows-kernel-explotaci%C3%B3n/>
+* <https://wetw0rk.github.io/posts/0x01-killing-windows-kernel-mitigations/>
+* <https://wetw0rk.github.io/posts/0x01-mat%C3%A1ndo-windows-kernel-mitigaciones/>
+* <https://wetw0rk.github.io/posts/0x02-introduction-to-windows-kernel-uafs/>
+* <https://wetw0rk.github.io/posts/0x02-introducci%C3%B3n-a-windows-kernel-uafs/>
+* <https://wetw0rk.github.io/posts/0x03-approaching-the-modern-windows-kernel-heap/>
+* <https://wetw0rk.github.io/posts/0x03-acerc%C3%A1ndose-al-heap-moderno-del-windows-kernel/>
+* <https://wetw0rk.github.io/posts/0x04-writing-what-where-in-the-kernel/>
+* <https://wetw0rk.github.io/posts/0x04-escribiendo-que-donde-en-el-kernel/>
+* <https://wetw0rk.github.io/posts/0x05-introduction-to-windows-kernel-type-confusion-vulnerabilities/>
+* <https://wetw0rk.github.io/posts/0x05-introducci%C3%B3n-a-windows-kernel-type-confusion-vulnerabilidades/>
+* <https://wetw0rk.github.io/posts/0x06-approaching-modern-windows-kernel-type-confusions/>
+* <https://wetw0rk.github.io/posts/0x06-acerc%C3%A1ndose-a-windows-kernel-type-confusions-modernos/>
+* <https://wetw0rk.github.io/posts/0x07-introduction-to-windows-kernel-race-conditions/>
+* <https://wetw0rk.github.io/posts/0x07-introducci%C3%B3n-a-windows-kernel-race-conditions/>
+* <https://wetw0rk.github.io/posts/0x08-modern-windows-kernel-race-conditions/>
+* <https://wetw0rk.github.io/posts/0x08-race-conditions-moderno-del-windows-kernel/>
+* <https://wetw0rk.github.io/posts/0x09-return-of-the-stack-overflow/>
+* <https://wetw0rk.github.io/posts/0x09-el-regreso-del-stack-overflow/>
 * <http://niiconsulting.com/checkmate/2016/01/windows-kernel-exploitation/>
 * <http://samdb.xyz/2016/01/16/intro_to_kernel_exploitation_part_0.html>
 * <http://samdb.xyz/2016/01/17/intro_to_kernel_exploitation_part_1.html>
